@@ -23,6 +23,7 @@ OLD
 secrets.py
 local_settings.py
 cronjob
+pgdata
 
 # Static #
 ##########
